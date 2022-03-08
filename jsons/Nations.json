@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Elysium",
+        "leaderName": "The Chancellor",
+        "adjective": ["Elysian"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Neutral",
+        "favoredReligion": "Humanism",
+
+        "startIntroPart1": "Elysium is a Democratic Republic.",
+        "startIntroPart2": "- Article 1, Constitution of Elysium",
+        // "declaringWar": "",
+        // "attacked": "",
+        // "defeated": "",
+        // "introduction": "",
+        // "neutralHello": "",
+        // "hateHello": "",
+        // "tradeRequest": "",
+
+        "outerColor": [36, 57, 90],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Land of the Free, Home of the Brave",
+        "uniques": [
+            "[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
+            "Starts with [Constitution] adopted",
+
+            // Fake uniques to help understand the nation
+            "Cannot build units and buildings consuming [Slaves] except [Refugee Center]",
+            "Cannot build [Council]",
+            "Cannot build [Listening Post]"
+        ],
+        "cities": [
+            "Elysium",
+            "Salute",
+            "Liberty",
+            "Unity",
+            "Triumph",
+            "Justice",
+            "Ambition",
+            "Amity",
+            "Honor",
+            "Prospect",
+            "Duty",
+            "Courage",
+            "Endeavour",
+            "Ascension",
+            "Purpose",
+            "Heritage",
+            "Excellence",
+            "Venture",
+            "Diligence",
+            "Enterprise",
+            "Vibrance",
+            "Clemency"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Elysium is a Democratic Republic."
+            },
+            {
+                "text": "- Article 1, Constitution of Elysium"
+            }
+        ]
+    }
+]

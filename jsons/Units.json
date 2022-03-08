@@ -1,0 +1,35 @@
+[
+    // Fake Restriction Units
+    {
+        "name": "Elysium cannot build Auxiliary",
+        "unitType": "Scrapper",
+        "replaces": "Auxiliary",
+        "uniqueTo": "Elysium",
+        "obsoleteTech": "The Wheel",
+        "uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Elysium cannot build Crossbowman",
+        "unitType": "Shooter",
+        "replaces": "Crossbowman",
+        "uniqueTo": "Elysium",
+        "obsoleteTech": "The Wheel",
+        "uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Elysium cannot build Conscript",
+        "unitType": "Scrapper",
+        "replaces": "Conscript",
+        "uniqueTo": "Elysium",
+        "obsoleteTech": "The Wheel",
+        "uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Elysium cannot build NBC Conscript",
+        "unitType": "Scrapper",
+        "replaces": "NBC Conscript",
+        "uniqueTo": "Elysium",
+        "obsoleteTech": "The Wheel",
+        "uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+    }
+]

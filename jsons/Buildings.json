@@ -1,0 +1,112 @@
+[
+    // Capital Uniques
+    {
+        "name": "Constitution of Elysium",
+        "isWonder": true,
+        "uniqueTo": "Elysium",
+        "cost": 1,
+        "uniques": [
+            "Can only be built [in capital]",
+            "Gain a free [Stele of Constitution] [in this city]"
+        ],
+        "quote": "The sovereignty of Elysium resides in the people,\nand all political power emanates from the people.\n- Article 2, Constitution of Elysium",
+        "civilopediaText": [
+            {
+                "text": "The sovereignty of Elysium resides in the people,\nand all political power emanates from the people."
+            },
+            {
+                "text": "- Article 2, Constitution of Elysium"
+            }
+        ]
+    },
+
+    // Normal Uniques
+    {
+        "name": "Parliament",
+        "replaces": "Congress",
+        "uniqueTo": "Elysium",
+        "cost": 100,
+        "requiredTech": "Civil Service",
+        "uniques": [
+            "[+1 Culture] per [4] population [in all cities]",
+            "[-50]% unhappiness from population [in all cities connected to capital]",
+            "Only available <if [Search for Survivors] is constructed>",
+            "Can only be built [in capital]",
+            "Only available <in cities without a [Council]>",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Stele of Constitution",
+        "replaces": "Monument",
+        "uniqueTo": "Elysium",
+        "culture": 2,
+        "cost": 40,
+        "hurryCostModifier": 40,
+        "uniques": [
+            "Can only be built [in all cities connected to capital]",
+            "[-50]% unhappiness from population [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "civilopediaText": [
+            {
+                "text": "This grand monument has the entire Constitution of Elysium inscribed onto it. The law requires every city to have this Stele erect at an easily accessible place."
+            }
+        ]
+    },
+    {
+        "name": "Court",
+        "replaces": "Prison Camp",
+        "uniqueTo": "Elysium",
+        "hurryCostModifier": -25,
+        "culture": 1,
+        "cost": 20,
+        "uniques": [
+            "Remove extra unhappiness from annexed cities",
+            "Only available <in cities without a [Listening Post]>",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Construction"
+    },
+    {
+        "name": "Refugee Center",
+        "uniqueTo": "Elysium",
+        "percentStatBonus": { "culture": 15 },
+        "culture": 1,
+        "specialistSlots": { "Administrator": 1 },
+        "maintenance": 1,
+        "uniques": [
+            // Fake uniques
+            "Replaces [Work Camp] without being treated as [Work Camp]",
+
+            // Actual uniques
+            "Consumes [1] [Slaves]",
+            "Only available <with [Slaves]>",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Construction"
+    },
+
+    // Fake Restriction Buildings
+    {
+        "name": "Elysium cannot build Council",
+        "replaces": "Council",
+        "uniqueTo": "Elysium",
+        "requiredTech": "The Wheel",
+        "uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Elysium cannot build Listening Post",
+        "replaces": "Listening Post",
+        "uniqueTo": "Elysium",
+        "requiredTech": "The Wheel",
+        "uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Elysium cannot build Work Camp",
+        "replaces": "Work Camp",
+        "uniqueTo": "Elysium",
+        "requiredTech": "The Wheel",
+        "uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+    }
+]
