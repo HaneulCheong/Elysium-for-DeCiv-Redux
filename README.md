@@ -5,8 +5,9 @@
 - Dependencies: [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux)
 
 ## Introduction
-Lead Elysium, a rare democracy in the middle of the nuclear wasteland, \
-whose citizens would proudly and fiercely defend her constitution and civil liberties.
+Lead Elysium, a rare democracy in the middle of a nuclear wasteland, \
+whose citizens would proudly and fiercely defend her constitution and civil liberties, \
+regardless of their harsh situation.
 
 ## Elysium
 ### Profile
@@ -17,7 +18,7 @@ whose citizens would proudly and fiercely defend her constitution and civil libe
 
 ### Uniques
 #### Land of the Free, Home of the Brave
-<img src="docs\Elysium.png" alt="Icon of Elysium" height="50" />
+<img src="docs/Elysium.png" alt="Icon of Elysium" height="50" />
 
 - +20% Strength when fighting in Friendly Land tiles when at war
 - Starts with Constitution adopted (thus cannot adopt Supremacy)
@@ -26,14 +27,14 @@ whose citizens would proudly and fiercely defend her constitution and civil libe
 
 ### Unique Buildings
 #### Constitution of Elysium
-<img src="Images\BuildingIcons\Constitution of Elysium.png" alt="Icon of the Constitution of Elysium" height="50" />
+<img src="Images/BuildingIcons/Constitution of Elysium.png" alt="Icon of the Constitution of Elysium" height="50" />
 
 - Unique Wonder
 - Can only be built in capital
 - Gain a free Stele of Consitution in this city
 
 #### Parliament
-<img src="Images\BuildingIcons\Parliament.png" alt="Icon of the Parliament" height="50" />
+<img src="Images/BuildingIcons/Parliament.png" alt="Icon of the Parliament" height="50" />
 
 - Replaces Congress
 - Gained
@@ -42,7 +43,7 @@ whose citizens would proudly and fiercely defend her constitution and civil libe
   - -10% unhappiness from population in all cities
 
 #### Stele of Constitution
-<img src="Images\BuildingIcons\Stele of Constitution.png" alt="Icon of a Stele of Constitution" height="50" />
+<img src="Images/BuildingIcons/Stele of Constitution.png" alt="Icon of a Stele of Constitution" height="50" />
 
 - Replaces Monument
 - Gained
@@ -51,7 +52,7 @@ whose citizens would proudly and fiercely defend her constitution and civil libe
   - Destroyed when the city is captured
 
 #### Court
-<img src="Images\BuildingIcons\Court.png" alt="Icon of a Court" height="50" />
+<img src="Images/BuildingIcons/Court.png" alt="Icon of a Court" height="50" />
 
 - Replaces Prison Camp
 - Gained
@@ -62,7 +63,7 @@ whose citizens would proudly and fiercely defend her constitution and civil libe
   - -1 Food
 
 #### Refugee Center
-<img src="Images\BuildingIcons\Refugee Center.png" alt="Icon of a Refugee Center" height="50" />
+<img src="Images/BuildingIcons/Refugee Center.png" alt="Icon of a Refugee Center" height="50" />
 
 - Replaces Work Camp without being treated as one
 - Gained

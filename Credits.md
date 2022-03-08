@@ -8,8 +8,8 @@
 ## Docs
 
 ### Elysium.png
-["Eagle of Elysium"](docs\Elysium.png) by Haneul Cheong is licensed under CC BY-NC 4.0. \
-["Eagle of Elysium"](docs\Elysium.png) is a derivative of ["American Eagle Icon"](http://getdrawings.com/american-eagle-icon#american-eagle-icon-12.png) by Creed Messiah, used under CC BY-NC 4.0.
+["Eagle of Elysium"](docs/Elysium.png) by Haneul Cheong is licensed under CC BY-NC 4.0. \
+["Eagle of Elysium"](docs/Elysium.png) is a derivative of ["American Eagle Icon"](http://getdrawings.com/american-eagle-icon#american-eagle-icon-12.png) by Creed Messiah, used under CC BY-NC 4.0.
 
 ## Building Icons
 
