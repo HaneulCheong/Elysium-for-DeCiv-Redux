@@ -1,23 +1,30 @@
 # Elysium-for-DeCiv-Redux
+
 ## Mod Info
+
 - Mod Version: 1.0
-- Required Base Game Version: 3.19.5~
+- Required Base Game Version: 3.19.15~
 - Dependencies: [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux)
 
 ## Introduction
+
 Lead Elysium, a rare democracy in the middle of a nuclear wasteland, \
 whose citizens would proudly and fiercely defend her constitution and civil liberties, \
 regardless of their harsh situation.
 
 ## Elysium
+
 ### Profile
+
 - Full Name: The Republic of Elysium
 - Leader: The Chancellor
 - Preferred Victory Type: Neutral
 - Start Bias: Coast
 
 ### Uniques
+
 #### Land of the Free, Home of the Brave
+
 <img src="docs/Elysium.png" alt="Icon of Elysium" height="50" />
 
 - +20% Strength when fighting in Friendly Land tiles when at war
@@ -26,7 +33,9 @@ regardless of their harsh situation.
 - Cannot build Council and Listening Post
 
 ### Unique Buildings
+
 #### Constitution of Elysium
+
 <img src="Images/BuildingIcons/Constitution of Elysium.png" alt="Icon of the Constitution of Elysium" height="50" />
 
 - Unique Wonder
@@ -34,6 +43,7 @@ regardless of their harsh situation.
 - Gain a free Stele of Consitution in this city
 
 #### Parliament
+
 <img src="Images/BuildingIcons/Parliament.png" alt="Icon of the Parliament" height="50" />
 
 - Replaces Congress
@@ -43,6 +53,7 @@ regardless of their harsh situation.
   - -10% unhappiness from population in all cities
 
 #### Stele of Constitution
+
 <img src="Images/BuildingIcons/Stele of Constitution.png" alt="Icon of a Stele of Constitution" height="50" />
 
 - Replaces Monument
@@ -52,6 +63,7 @@ regardless of their harsh situation.
   - Destroyed when the city is captured
 
 #### Court
+
 <img src="Images/BuildingIcons/Court.png" alt="Icon of a Court" height="50" />
 
 - Replaces Prison Camp
@@ -63,6 +75,7 @@ regardless of their harsh situation.
   - -1 Food
 
 #### Refugee Center
+
 <img src="Images/BuildingIcons/Refugee Center.png" alt="Icon of a Refugee Center" height="50" />
 
 - Replaces Work Camp without being treated as one
