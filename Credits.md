@@ -20,6 +20,7 @@
 - ["Constitution of Elysium"](Images/BuildingIcons/Constitution%20of%20Elysium.png) is licensed under CC BY-NC 4.0 by Haneul Cheong.
 - ["Constitution of Elysium"](Images/BuildingIcons/Constitution%20of%20Elysium.png) is a derivative of the following materials:
   - ["Eagle of Elysium"](Images/NationIcons/Elysium.png) by Haneul Cheong, used under CC BY-NC 4.0.
+    - ["American Eagle Icon"](http://getdrawings.com/american-eagle-icon#american-eagle-icon-12.png) by Creed Messiah, used under CC BY-NC 4.0.
   - ["Scroll"](https://thenounproject.com/icon/scroll-3978533/) by Start Up Graphic Design, used under CC-BY 3.0.
 
 ### Court.png
@@ -43,3 +44,4 @@
 ### Elysium.png
 
 - ["Eagle of Elysium"](Images/NationIcons/Elysium.png) is licensed under CC BY-NC 4.0 by Haneul Cheong. / Changed its color to white
+- ["Eagle of Elysium"](Images/NationIcons/Elysium.png) is a derivative of ["American Eagle Icon"](http://getdrawings.com/american-eagle-icon#american-eagle-icon-12.png) by Creed Messiah, used under CC BY-NC 4.0.
