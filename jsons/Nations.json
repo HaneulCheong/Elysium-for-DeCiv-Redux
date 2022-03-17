@@ -23,9 +23,10 @@
         "uniques": [
             "[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
             "Starts with [Constitution] adopted",
+            "Cannot build [Enslaved] units",
 
             // Fake uniques to help understand the nation
-            "Cannot build units and buildings consuming [Slaves] except [Refugee Center]",
+            "Cannot build buildings consuming [Slaves] except [Refugee Center]",
             "Cannot build [Council]",
             "Cannot build [Listening Post]"
         ],

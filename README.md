@@ -2,7 +2,7 @@
 
 ## Mod Info
 
-- Mod Version: 1.0
+- Mod Version: 1.0.1
 - Required Base Game Version: 3.19.15~
 - Dependencies: [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux)
 
@@ -16,7 +16,6 @@ regardless of their harsh situation.
 
 ### Profile
 
-- Full Name: The Republic of Elysium
 - Leader: The Chancellor
 - Preferred Victory Type: Neutral
 - Start Bias: Coast
@@ -29,7 +28,8 @@ regardless of their harsh situation.
 
 - +20% Strength when fighting in Friendly Land tiles when at war
 - Starts with Constitution adopted (thus cannot adopt Supremacy)
-- Cannot build units and buildings consuming Slaves except Refugee Center
+- Cannot build Enslaved units
+- Cannot build buildings consuming Slaves except Refugee Center
 - Cannot build Council and Listening Post
 
 ### Unique Buildings
