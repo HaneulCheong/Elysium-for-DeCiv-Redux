@@ -7,6 +7,10 @@
         "cost": 1,
         "uniques": [
             "Can only be built [in capital]",
+            "[+1 Culture] from every specialist [in this city]",
+            "Free [Militia] appears",
+            "Free [Gunman] appears",
+            "Free [Medic] appears",
             "Gain a free [Stele of Constitution] [in this city]"
         ],
         "quote": "The sovereignty of Elysium resides in the people,\nand all political power emanates from the people.\n- Article 2, Constitution of Elysium",
