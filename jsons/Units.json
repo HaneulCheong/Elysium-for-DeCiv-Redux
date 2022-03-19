@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Medic",
+		"replaces": "Crossbowman",
+        "uniqueTo": "Elysium",
+		"unitType": "Shooter",
+		"cost": 35,
+		"movement": 2,
+		"strength": 12,
+        "rangedStrength": 15,
+        "range": 1,
+		"interceptRange": 1,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Support",
+		"hurryCostModifier": 20,
+		"promotions": ["Extended Range"],
+		"uniques": [
+			"Personnel",
+            "All adjacent units heal [+20] HP when healing",
+            "[-1] Sight"
+		],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Support",
+		"replaces": "Conscript",
+        "uniqueTo": "Elysium",
+		"unitType": "Shooter",
+		"cost": 60,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 24,
+		"range": 1,
+		"interceptRange": 1,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "NBC Support",
+		"hurryCostModifier": 20,
+		"promotions": ["Extended Range"],
+		"uniques": [
+			"Personnel",
+			"Consumes [1] [Weapons]",
+			"All adjacent units heal [+20] HP when healing",
+			"[-1] Sight"
+		],
+		"attackSound": "shot"
+	},
+	{
+		"name": "NBC Support",
+		"replaces": "Conscript",
+        "uniqueTo": "Elysium",
+		"unitType": "Shooter",
+		"cost": 125,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 24,
+		"range": 1,
+		"interceptRange": 1,
+		"requiredTech": "Plastics",
+		"hurryCostModifier": 20,
+		"promotions": ["Gas Mask", "Extended Range"],
+		"uniques": [
+			"Personnel",
+			"Consumes [1] [Weapons]",
+			"Only available <if [Factory] is constructed>",
+			"All adjacent units heal [+20] HP when healing",
+			"[-1] Sight"
+		],
+		"attackSound": "shot"
+	}
+]

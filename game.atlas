@@ -6,43 +6,64 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Constitution of Elysium
   rotate: false
-  xy: 212, 104
+  xy: 212, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Court
   rotate: false
-  xy: 320, 104
+  xy: 320, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Parliament
   rotate: false
-  xy: 428, 104
+  xy: 644, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Refugee Center
   rotate: false
-  xy: 536, 104
+  xy: 752, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stele of Constitution
   rotate: false
-  xy: 644, 104
+  xy: 860, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Elysium
   rotate: false
-  xy: 4, 4
+  xy: 4, 12
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Medic
+  rotate: false
+  xy: 428, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/NBC Support
+  rotate: false
+  xy: 536, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Support
+  rotate: false
+  xy: 212, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1

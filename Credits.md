@@ -3,7 +3,7 @@
 ## Used licenses
 
 - [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
-- [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Docs
@@ -13,6 +13,19 @@
 - ["Eagle of Elysium"](docs/Elysium.png) by Haneul Cheong is licensed under CC BY-NC 4.0.
 - ["Eagle of Elysium"](docs/Elysium.png) is a derivative of ["American Eagle Icon"](http://getdrawings.com/american-eagle-icon#american-eagle-icon-12.png) by Creed Messiah, used under CC BY-NC 4.0.
 
+### Medic.png
+
+- ["Medicine"](https://thenounproject.com/icon/medicine-2403995/) by Andre is licensed under CC BY 3.0.
+- The author or this mod doesn't think this is copyrightable—nor should be copyrighted in the first place—since it is a simple geometry.
+
+### NBC Support.png
+
+- ["Army Truck"](https://thenounproject.com/icon/medicine-2403995/) by Vectors Market is licensed under CC BY 3.0. / Added a radiation warning symbol
+
+### Support.png
+
+- ["Army Truck"](https://thenounproject.com/icon/army-truck-2052191/) by Vectors Market is licensed under CC BY 3.0.
+
 ## Building Icons
 
 ### Constitution of Elysium.png
@@ -21,15 +34,15 @@
 - ["Constitution of Elysium"](Images/BuildingIcons/Constitution%20of%20Elysium.png) is a derivative of the following materials:
   - ["Eagle of Elysium"](Images/NationIcons/Elysium.png) by Haneul Cheong, used under CC BY-NC 4.0.
     - ["American Eagle Icon"](http://getdrawings.com/american-eagle-icon#american-eagle-icon-12.png) by Creed Messiah, used under CC BY-NC 4.0.
-  - ["Scroll"](https://thenounproject.com/icon/scroll-3978533/) by Start Up Graphic Design, used under CC-BY 3.0.
+  - ["Scroll"](https://thenounproject.com/icon/scroll-3978533/) by Start Up Graphic Design, used under CC BY 3.0.
 
 ### Court.png
 
-- ["Judge"](https://thenounproject.com/icon/judge-1076388/) by Krisztian from mokapot.hu is licensed under CC-BY 3.0.
+- ["Judge"](https://thenounproject.com/icon/judge-1076388/) by Krisztian from mokapot.hu is licensed under CC BY 3.0.
 
 ### Parliament.png
 
-- ["Assembly"](https://thenounproject.com/icon/assembly-468455/) by Noël Rasendrason is licensed under CC-BY 3.0.
+- ["Assembly"](https://thenounproject.com/icon/assembly-468455/) by Noël Rasendrason is licensed under CC BY 3.0.
 
 ### Refugee Center.png
 
@@ -37,7 +50,7 @@
 
 ### Stele of Constitution.png
 
-- ["Obelisk"](https://thenounproject.com/icon/obelisk-3520415/) by IconMark is licensed under CC-BY 3.0.
+- ["Obelisk"](https://thenounproject.com/icon/obelisk-3520415/) by IconMark is licensed under CC BY 3.0.
 
 ## Nation Icons
 
@@ -45,3 +58,18 @@
 
 - ["Eagle of Elysium"](Images/NationIcons/Elysium.png) is licensed under CC BY-NC 4.0 by Haneul Cheong. / Changed its color to white
 - ["Eagle of Elysium"](Images/NationIcons/Elysium.png) is a derivative of ["American Eagle Icon"](http://getdrawings.com/american-eagle-icon#american-eagle-icon-12.png) by Creed Messiah, used under CC BY-NC 4.0.
+
+## Unit Icons
+
+### Medic.png
+
+- ["Medicine"](https://thenounproject.com/icon/medicine-2403995/) by Andre is licensed under CC BY 3.0. / Changed its color to white
+- The author or this mod doesn't think this is copyrightable—nor should be copyrighted in the first place—since it is a simple geometry.
+
+### NBC Support.png
+
+- ["Army Truck"](https://thenounproject.com/icon/medicine-2403995/) by Vectors Market is licensed under CC BY 3.0. / Added a radiation warning symbol and changed its color to white
+
+### Support.png
+
+- ["Army Truck"](https://thenounproject.com/icon/army-truck-2052191/) by Vectors Market is licensed under CC BY 3.0. / Changed its color to white
