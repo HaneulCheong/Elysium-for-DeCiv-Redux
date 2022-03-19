@@ -48,7 +48,7 @@
 	},
 	{
 		"name": "NBC Support",
-		"replaces": "Conscript",
+		"replaces": "NBC Conscript",
         "uniqueTo": "Elysium",
 		"unitType": "Shooter",
 		"cost": 125,

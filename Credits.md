@@ -16,7 +16,7 @@
 ### Medic.png
 
 - ["Medicine"](https://thenounproject.com/icon/medicine-2403995/) by Andre is licensed under CC BY 3.0.
-- The author or this mod doesn't think this is copyrightable—nor should be copyrighted in the first place—since it is a simple geometry.
+- The author of this mod doesn't think this is copyrightable—nor should be copyrighted in the first place—since it is a simple geometry.
 
 ### NBC Support.png
 
@@ -64,7 +64,7 @@
 ### Medic.png
 
 - ["Medicine"](https://thenounproject.com/icon/medicine-2403995/) by Andre is licensed under CC BY 3.0. / Changed its color to white
-- The author or this mod doesn't think this is copyrightable—nor should be copyrighted in the first place—since it is a simple geometry.
+- The author of this mod doesn't think this is copyrightable—nor should be copyrighted in the first place—since it is a simple geometry.
 
 ### NBC Support.png
 
