@@ -2,7 +2,7 @@
 
 ## Mod Info
 
-- Mod Version: 1.0.1
+- Mod Version: 1.1.0-beta01
 - Required Base Game Version: 3.19.15~
 - Dependencies: [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux)
 
@@ -26,8 +26,10 @@ regardless of their harsh situation.
 
 <img src="docs/Elysium.png" alt="Icon of Elysium" height="50" />
 
-- +20% Strength when fighting in Friendly Land tiles when at war
 - Starts with Constitution adopted (thus cannot adopt Supremacy)
+- +20% Strength when fighting in Friendly Land tiles when at war
+- +50% Production when constructing Military units in all non-occupied cities when at war
+- -20% Production when constructing Normal buildings in all non-occupied cities when at war
 - Cannot build Enslaved units
 - Cannot build buildings consuming Slaves except Refugee Center
 - Cannot build Council and Listening Post
@@ -89,3 +91,26 @@ regardless of their harsh situation.
   - +1 Production
   - +15% Production
   - +1 Engineer slot
+
+### Unique Units
+
+#### Medic
+
+<img src="docs/Medic.png" alt="Icon of a Medic" height="50" />
+
+- Replaces Auxiliary
+- TBA
+
+#### Support
+
+<img src="docs/Support.png" alt="Icon of a Support" height="50" />
+
+- Replaces Conscript
+- TBA
+
+#### NBC Support
+
+<img src="docs/NBC Support.png" alt="Icon of a NBC Support" height="50" />
+
+- Replaces NBC Conscript
+- TBA
