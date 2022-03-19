@@ -21,8 +21,10 @@
         "innerColor": [255, 255, 255],
         "uniqueName": "Land of the Free, Home of the Brave",
         "uniques": [
-            "[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
             "Starts with [Constitution] adopted",
+            "[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
+            "[+50]% Production when constructing [Military] units [in all non-occupied cities] <when at war>",
+            "[-20]% Production when constructing [Building] buildings [in all non-occupied cities] <when at war>",
             "Cannot build [Enslaved] units",
 
             // Fake uniques to help understand the nation
