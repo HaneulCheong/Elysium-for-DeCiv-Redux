@@ -8,16 +8,16 @@
 		"movement": 2,
 		"strength": 12,
         "rangedStrength": 15,
-        "range": 1,
+        "range": 2,
 		"interceptRange": 1,
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Support",
 		"hurryCostModifier": 20,
-		"promotions": ["Extended Range"],
 		"uniques": [
 			"Personnel",
-            "All adjacent units heal [+20] HP when healing",
+            "All adjacent units heal [+10] HP when healing",
+			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
             "[-1] Sight"
 		],
 		"attackSound": "shot"
@@ -31,17 +31,17 @@
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 24,
-		"range": 1,
+		"range": 2,
 		"interceptRange": 1,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "NBC Support",
 		"hurryCostModifier": 20,
-		"promotions": ["Extended Range"],
 		"uniques": [
 			"Personnel",
 			"Consumes [1] [Weapons]",
-			"All adjacent units heal [+20] HP when healing",
+			"All adjacent units heal [+10] HP when healing",
+			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
 			"[-1] Sight"
 		],
 		"attackSound": "shot"
@@ -55,16 +55,16 @@
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 24,
-		"range": 1,
+		"range": 2,
 		"interceptRange": 1,
 		"requiredTech": "Plastics",
 		"hurryCostModifier": 20,
-		"promotions": ["Gas Mask", "Extended Range"],
 		"uniques": [
 			"Personnel",
 			"Consumes [1] [Weapons]",
 			"Only available <if [Factory] is constructed>",
-			"All adjacent units heal [+20] HP when healing",
+			"All adjacent units heal [+10] HP when healing",
+			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
 			"[-1] Sight"
 		],
 		"attackSound": "shot"

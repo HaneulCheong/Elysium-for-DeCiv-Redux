@@ -2,7 +2,7 @@
 
 ## Mod Info
 
-- Mod Version: 1.1.0-beta01
+- Mod Version: 1.1.0-beta02
 - Required Base Game Version: 3.19.15~
 - Dependencies: [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux)
 
@@ -71,6 +71,7 @@ regardless of their harsh situation.
 - Replaces Prison Camp
 - Gained
   - +1 Culture
+  - Only available in cities with a Stele of Constitution
 - Lost
   - Can only be built in annexed city
   - Provides 1 Slave
@@ -98,7 +99,11 @@ regardless of their harsh situation.
 
 <img src="docs/Medic.png" alt="Icon of a Medic" height="50" />
 
-- Replaces Auxiliary
+- Replaces Crossbowman
+- Upgrades to Support
+- Gained
+  - All adjacent units heal +10 HP when healing
+  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
 - TBA
 
 #### Support
@@ -106,6 +111,11 @@ regardless of their harsh situation.
 <img src="docs/Support.png" alt="Icon of a Support" height="50" />
 
 - Replaces Conscript
+- Can upgraded from Medic
+- Upgrades to NBC Support
+- Gained
+  - All adjacent units heal +10 HP when healing
+  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
 - TBA
 
 #### NBC Support
@@ -113,4 +123,8 @@ regardless of their harsh situation.
 <img src="docs/NBC Support.png" alt="Icon of a NBC Support" height="50" />
 
 - Replaces NBC Conscript
+- Can upgraded from Support
+- Gained
+  - All adjacent units heal +10 HP when healing
+  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
 - TBA

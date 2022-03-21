@@ -8,9 +8,6 @@
         "uniques": [
             "Can only be built [in capital]",
             "[+1 Culture] from every specialist [in this city]",
-            "Free [Militia] appears",
-            "Free [Gunman] appears",
-            "Free [Medic] appears",
             "Gain a free [Stele of Constitution] [in this city]"
         ],
         "quote": "The sovereignty of Elysium resides in the people,\nand all political power emanates from the people.\n- Article 2, Constitution of Elysium",
@@ -67,6 +64,7 @@
         "cost": 20,
         "uniques": [
             "Remove extra unhappiness from annexed cities",
+            "Only available <in cities with a [Stele of Constitution]>",
             "Only available <in cities without a [Listening Post]>",
             "Destroyed when the city is captured"
         ],
