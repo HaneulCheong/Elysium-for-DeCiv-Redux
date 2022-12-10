@@ -30,7 +30,7 @@
         "requiredTech": "Civil Service",
         "uniques": [
             "[+1 Culture] per [4] population [in all cities]",
-            "[-50]% unhappiness from population [in all cities connected to capital]",
+            "[-50]% unhappiness from [Population] [in all cities connected to capital]",
             "Only available <if [Search for Survivors] is constructed>",
             "Can only be built [in capital]",
             "Only available <in cities without a [Council]>",
@@ -46,7 +46,7 @@
         "hurryCostModifier": 40,
         "uniques": [
             "Can only be built [in all cities connected to capital]",
-            "[-50]% unhappiness from population [in this city]",
+            "[-50]% unhappiness from [Population] [in this city]",
             "Destroyed when the city is captured"
         ],
         "civilopediaText": [
