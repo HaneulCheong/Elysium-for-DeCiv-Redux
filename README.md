@@ -32,7 +32,7 @@ regardless of their harsh situation.
 - +15% Production when constructing Military units in all non-occupied cities when at war
 - Water cost of purchasing Military units -15% when at war
 - Cannot build Enslaved units
-- Cannot build Work Camp, Listening Post, or Council buildings
+- Cannot build Prison Camp, Work Camp, Listening Post, or Council buildings
 
 ### Unique Buildings
 
@@ -50,7 +50,7 @@ regardless of their harsh situation.
 
 <img src="Images/BuildingIcons/Elysian Parliament.png" alt="Icon of the Parliament" height="50" />
 
-- Replaces Congress
+- Replaces Congress and also technically replaces the Council at the same time
 - Beta 3 update: Renamed from Parliament so Elysium no longer steals a UB from Commonwealth
 - Production cost increased to 150
 - Lost
@@ -75,10 +75,10 @@ regardless of their harsh situation.
 
 <img src="Images/BuildingIcons/Court.png" alt="Icon of a Court" height="50" />
 
-- Replaces Prison Camp
+- Standalone building that is a pseudo-replacement for the Prison Camp
 - Gained
   - +1 Culture
-  - +2 Maintenance Cost
+  - +1 Maintenance Cost
   - Only available in cities with a Stele of Constitution
 - Lost
   - Can only be built in annexed city
@@ -115,8 +115,8 @@ regardless of their harsh situation.
 - Gained
   - 20 Ranged Strength (vs. 18)
   - 2 Range (vs. 1)
-  - All adjacent units heal +10 HP when healing
-  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
+  - -1 Sight penalty
+  - All adjacent units heal +10 HP when healing in Friendly Land tiles
 - TBA
 
 #### Support
@@ -129,9 +129,9 @@ regardless of their harsh situation.
 - Gained
   - 30 Ranged Strength
   - 2 Range
+  - -1 Sight penalty
   - 24 Defense Strength (vs. 30)
-  - All adjacent units heal +10 HP when healing
-  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
+  - All adjacent units heal +10 HP when healing in Friendly Land tiles
 - TBA
 
 #### NBC Support
@@ -143,6 +143,6 @@ regardless of their harsh situation.
 - Gained
   - 35 Ranged Strength
   - 2 Range
-  - All adjacent units heal +10 HP when healing
-  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
+  - All adjacent units heal +10 HP when healing in Friendly Land tiles
+  - Can upgrade to Black Ops
 - TBA

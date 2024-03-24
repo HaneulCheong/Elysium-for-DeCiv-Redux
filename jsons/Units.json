@@ -16,8 +16,7 @@
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Personnel",
-			"All adjacent units heal [+10] HP when healing",
-			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
+			"All adjacent units heal [+10] HP when healing <in [Friendly Land] tiles>",
 			"[-1] Sight"
 		],
 		"attackSound": "shot"
@@ -40,8 +39,7 @@
 		"uniques": [
 			"Personnel",
 			"Consumes [1] [Weapons]",
-			"All adjacent units heal [+10] HP when healing",
-			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
+			"All adjacent units heal [+10] HP when healing <in [Friendly Land] tiles>",
 			"[-1] Sight"
 		],
 		"attackSound": "shot"
@@ -64,9 +62,7 @@
 			"Personnel",
 			"Consumes [1] [Weapons]",
 			"Only available <if [Factory] is constructed>",
-			"All adjacent units heal [+10] HP when healing",
-			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
-			"[-1] Sight"
+			"All adjacent units heal [+10] HP when healing <in [Friendly Land] tiles>"
 		],
 		"promotions": ["Gas Mask"],
 		"attackSound": "shot"

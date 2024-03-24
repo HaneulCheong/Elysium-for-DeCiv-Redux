@@ -27,7 +27,7 @@
 			"[+15]% Production when constructing [Military] units [in all non-occupied cities] <when at war>",
             "[Gold] cost of purchasing [Military] units [-15]% <when at war>",
 			"Cannot build [Enslaved] units",
-			"Comment [Cannot build Work Camp, Listening Post, or Council buildings]"
+			"Comment [Cannot build Prison Camp, Work Camp, Listening Post, or Council buildings]"
 		],
 		"cities": [
 			"Elysium",

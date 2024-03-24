@@ -62,12 +62,12 @@
 	},
 	{
 		"name": "Court",
-		"replaces": "Prison Camp",
 		"uniqueTo": "Elysium",
 		"hurryCostModifier": 25,
 		"culture": 1,
-		"maintenance": 2,
+		"maintenance": 1,
 		"uniques": [
+			"Comment [Replaces Prison Camp without being treated as Prison Camp]",
 			"Remove extra unhappiness from annexed cities",
 			"Only available <in cities with a [Stele of Constitution]>",
 			"Destroyed when the city is captured"
@@ -103,6 +103,13 @@
 	{
 		"name": "Elysium cannot build Listening Post",
 		"replaces": "Listening Post",
+		"uniqueTo": "Elysium",
+		"requiredTech": "The Wheel",
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Elysium cannot build Prison Camp",
+		"replaces": "Prison Camp",
 		"uniqueTo": "Elysium",
 		"requiredTech": "The Wheel",
 		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
