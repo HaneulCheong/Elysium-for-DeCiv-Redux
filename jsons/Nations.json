@@ -1,68 +1,65 @@
 [
     {
-        "name": "Elysium",
-        "leaderName": "The Chancellor",
-        "adjective": ["Elysian"],
-        "startBias": ["Coast"],
-        "preferredVictoryType": "Neutral",
-        "favoredReligion": "Humanism",
+		"name": "Elysium",
+		"leaderName": "The Chancellor",
+		"adjective": ["Elysian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Humanism",
 
-        "startIntroPart1": "Elysium is a Democratic Republic.",
-        "startIntroPart2": "- Article 1, Constitution of Elysium",
-        // "declaringWar": "",
-        // "attacked": "",
-        // "defeated": "",
-        // "introduction": "",
-        // "neutralHello": "",
-        // "hateHello": "",
-        // "tradeRequest": "",
+		"startIntroPart1": "Elysium is a Democratic Republic.",
+		"startIntroPart2": "- Article 1, Constitution of Elysium",
+		"declaringWar": "You would continue to deny others freedom. We're going to rectify that.",
+		"attacked": "You will come to regret your aggression soon enough.",
+		"defeated": "The fall of Elysium is a crushing blow to all free men. It is a terrible loss for all humanity.",
+		"introduction": "Greetings. I am the Chancellor of Elysium, and I hope that I can call you a friend to my nation.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Now, on to business then.",
 
-        "outerColor": [36, 57, 90],
-        "innerColor": [255, 255, 255],
-        "uniqueName": "Land of the Free, Home of the Brave",
-        "uniques": [
-            "Starts with [Constitution] adopted",
-            "[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>",
-            "[+50]% Production when constructing [Military] units [in all non-occupied cities] <when at war>",
-            "[-20]% Production when constructing [Building] buildings [in all non-occupied cities] <when at war>",
-            "Cannot build [Enslaved] units",
-
-            // Fake uniques to help understand the nation
-            "Cannot build buildings consuming [Slaves] except [Refugee Center]",
-            "Cannot build [Council]",
-            "Cannot build [Listening Post]"
-        ],
-        "cities": [
-            "Elysium",
-            "Salute",
-            "Liberty",
-            "Unity",
-            "Triumph",
-            "Justice",
-            "Ambition",
-            "Amity",
-            "Honor",
-            "Prospect",
-            "Duty",
-            "Courage",
-            "Endeavour",
-            "Ascension",
-            "Purpose",
-            "Heritage",
-            "Excellence",
-            "Venture",
-            "Diligence",
-            "Enterprise",
-            "Vibrance",
-            "Clemency"
-        ],
-        "civilopediaText": [
-            {
-                "text": "Elysium is a Democratic Republic."
-            },
-            {
-                "text": "- Article 1, Constitution of Elysium"
-            }
-        ]
-    }
+		"outerColor": [36, 57, 90],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Land of the Free, Home of the Brave",
+		"uniques": [
+			"Starts with [Constitution] adopted",
+			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+			"[-15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+			"[+15]% Production when constructing [Military] units [in all non-occupied cities] <when at war>",
+            "[Gold] cost of purchasing [Military] units [-15]% <when at war>",
+			"Cannot build [Enslaved] units",
+			"Comment [Cannot build Work Camp, Listening Post, or Council buildings]"
+		],
+		"cities": [
+			"Elysium",
+			"Salute",
+			"Liberty",
+			"Unity",
+			"Triumph",
+			"Justice",
+			"Ambition",
+			"Amity",
+			"Honor",
+			"Prospect",
+			"Duty",
+			"Courage",
+			"Endeavour",
+			"Ascension",
+			"Purpose",
+			"Heritage",
+			"Excellence",
+			"Venture",
+			"Diligence",
+			"Enterprise",
+			"Vibrance",
+			"Clemency"
+		],
+		"civilopediaText": [
+			{
+				"text": "Elysium is a Democratic Republic."
+			},
+			{
+				"text": "- Article 1, Constitution of Elysium"
+			}
+		]
+	}
 ]
