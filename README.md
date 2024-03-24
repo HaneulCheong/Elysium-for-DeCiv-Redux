@@ -1,9 +1,9 @@
-# Elysium-for-DeCiv-Redux
+# Elysium for DeCiv Redux
 
 ## Mod Info
 
-- Mod Version: 1.1.0-beta02
-- Required Base Game Version: 3.19.15~
+- Mod Version: 1.1.0-beta03
+- Required Base Game Version: 4.19.2~
 - Dependencies: [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux)
 
 ## Introduction
@@ -17,7 +17,7 @@ regardless of their harsh situation.
 ### Profile
 
 - Leader: The Chancellor
-- Preferred Victory Type: Neutral
+- Preferred Victory Type: Cultural
 - Start Bias: Coast
 
 ### Uniques
@@ -27,12 +27,12 @@ regardless of their harsh situation.
 <img src="docs/Elysium.png" alt="Icon of Elysium" height="50" />
 
 - Starts with Constitution adopted (thus cannot adopt Supremacy)
-- +20% Strength when fighting in Friendly Land tiles when at war
-- +50% Production when constructing Military units in all non-occupied cities when at war
-- -20% Production when constructing Normal buildings in all non-occupied cities when at war
+- +15% Strength when fighting in Friendly Land tiles
+- -15% Strength when fighting in Enemy Land tiles
+- +15% Production when constructing Military units in all non-occupied cities when at war
+- Water cost of purchasing Military units -15% when at war
 - Cannot build Enslaved units
-- Cannot build buildings consuming Slaves except Refugee Center
-- Cannot build Council and Listening Post
+- Cannot build Prison Camp, Work Camp, Listening Post, or Council buildings
 
 ### Unique Buildings
 
@@ -42,50 +42,61 @@ regardless of their harsh situation.
 
 - Unique Wonder
 - Can only be built in capital
-- Gain a free Stele of Consitution in this city
+- +1 Culture from all specialists in this city
+- 2 free Medic units appear
+- Gain a free Food Store and Stele of Constitution in this city
 
-#### Parliament
+#### Elysian Parliament
 
-<img src="Images/BuildingIcons/Parliament.png" alt="Icon of the Parliament" height="50" />
+<img src="Images/BuildingIcons/Elysian Parliament.png" alt="Icon of the Parliament" height="50" />
 
-- Replaces Congress
-- Gained
-  - -50% unhappiness from population in all cities connected to capital
+- Replaces Congress and also technically replaces the Council at the same time
+- Beta 3 update: Renamed from Parliament so Elysium no longer steals a UB from Commonwealth
+- Production cost increased to 150
 - Lost
   - -10% unhappiness from population in all cities
+- Gained
+  - -5% unhappiness from population in all cities connected to capital
+  - +25% Production towards any buildings that already exist in the capital
+  - +25% Great Person generation in all cities connected to capital
+  - +10% growth in all cities connected to capital
 
 #### Stele of Constitution
 
 <img src="Images/BuildingIcons/Stele of Constitution.png" alt="Icon of a Stele of Constitution" height="50" />
 
 - Replaces Monument
-- Gained
+  - Requires Construction instead of being available on Turn 1
   - Can only be built in cities connected to capital
-  - -50% unhappiness from population in this city
+  - +1 Local Happiness per 8 population in this city
   - Destroyed when the city is captured
 
 #### Court
 
 <img src="Images/BuildingIcons/Court.png" alt="Icon of a Court" height="50" />
 
-- Replaces Prison Camp
+- Standalone building that is a pseudo-replacement for the Prison Camp
 - Gained
   - +1 Culture
+  - +1 Maintenance Cost
   - Only available in cities with a Stele of Constitution
 - Lost
   - Can only be built in annexed city
   - Provides 1 Slave
   - -1 Food
 
-#### Refugee Center
+#### Immigration Office
 
-<img src="Images/BuildingIcons/Refugee Center.png" alt="Icon of a Refugee Center" height="50" />
+<img src="Images/BuildingIcons/Immigration Office.png" alt="Icon of a Refugee Center" height="50" />
 
-- Replaces Work Camp without being treated as one
+- Standalone building that is a pseudo-replacement for the Work Camp (avoiding penalties from certain policies)
+- Beta 3 Update: Renamed from Refugee Center so Elysium no longer steals a UB from Commonwealth
 - Gained
   - +1 Culture
   - +15% Culture
   - +1 Administrator slot
+  - +1 population
+  - Unsellable
 - Lost
   - +1 Production in this city with Power
   - +2 Production in this city with Slaves
@@ -102,8 +113,10 @@ regardless of their harsh situation.
 - Replaces Crossbowman
 - Upgrades to Support
 - Gained
-  - All adjacent units heal +10 HP when healing
-  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
+  - 20 Ranged Strength (vs. 18)
+  - 2 Range (vs. 1)
+  - -1 Sight penalty
+  - All adjacent units heal +10 HP when healing in Friendly Land tiles
 - TBA
 
 #### Support
@@ -114,8 +127,11 @@ regardless of their harsh situation.
 - Can upgraded from Medic
 - Upgrades to NBC Support
 - Gained
-  - All adjacent units heal +10 HP when healing
-  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
+  - 30 Ranged Strength
+  - 2 Range
+  - -1 Sight penalty
+  - 24 Defense Strength (vs. 30)
+  - All adjacent units heal +10 HP when healing in Friendly Land tiles
 - TBA
 
 #### NBC Support
@@ -123,8 +139,10 @@ regardless of their harsh situation.
 <img src="docs/NBC Support.png" alt="Icon of a NBC Support" height="50" />
 
 - Replaces NBC Conscript
-- Can upgraded from Support
+- Can upgrade from Support
 - Gained
-  - All adjacent units heal +10 HP when healing
-  - All adjacent units heal +10 HP when healing in Land Friendly Land tiles
+  - 35 Ranged Strength
+  - 2 Range
+  - All adjacent units heal +10 HP when healing in Friendly Land tiles
+  - Can upgrade to Black Ops
 - TBA
