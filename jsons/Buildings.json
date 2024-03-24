@@ -9,7 +9,8 @@
 			"[+1 Culture] from every specialist [in this city]",
 			"[2] free [Medic] units appear",
 			"Can only be built [in capital]",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Gain a free [Stele of Constitution] [in this city]"
 		],
 		"quote": "The sovereignty of Elysium resides in the people,\nand all political power emanates from the people.\n- Article 2, Constitution of Elysium",
 		"civilopediaText": [
@@ -45,11 +46,11 @@
 		"replaces": "Monument",
 		"uniqueTo": "Elysium",
 		"culture": 2,
-		"happiness": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"requiredTech": "Construction",
 		"uniques": [
+			"[+1 Happiness] per [8] population [in this city]",
 			"Can only be built [in all cities connected to capital]",
 			"Destroyed when the city is captured"
 		],
