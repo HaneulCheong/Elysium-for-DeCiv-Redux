@@ -1,0 +1,33 @@
+[
+	{
+		"name": "The Chancellor",
+		"production": 5,
+		"food": 6,
+		"gold": 6,
+		"science": 5,
+		"culture": 8,
+		"happiness": 7,
+		"faith": 5,
+		"military": 7,
+		"aggressive": 4,
+		"declareWar": 2,
+		"commerce": 9,
+		"diplomacy": 8,
+		"loyal": 8,
+		"expansion": 5,
+		"priorities": {
+			"Adaptation": 30,
+			"Expansionism": 10,
+			"Sovereignty": 10,
+			"Theocracy": 20,
+			"Rationalism": 20,
+			"Constitution": 50,
+			"Supremacy": 0,
+			"Monopoly": 30,
+			"Collectivism": 0,
+			"Naturalism": 30,
+			"Mechanization": 0,
+			"Bionics": 0
+		}
+	}
+]

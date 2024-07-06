@@ -18,14 +18,14 @@ BuildingIcons/Court
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Parliament
+BuildingIcons/Elysian Parliament
   rotate: false
   xy: 644, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Refugee Center
+BuildingIcons/Immigration Office
   rotate: false
   xy: 752, 112
   size: 100, 100
